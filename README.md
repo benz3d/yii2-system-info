@@ -12,9 +12,8 @@ provides you with appropriate information.
 DONATE
 ------
 
-Any contribution helps us to improve [Yii2 System Info](https://github.com/abhi1693/yii2-system-info), if you want to help us too but don't want to get into coding, we won't say no to PayPal
+Any contribution helps us to improve [Yii2 System Info](https://github.com/benz3d/yii2-system-info), if you want to help us too but don't want to get into coding, we won't say no to PayPal
 
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=4M2CDMWD7W3MS)
  
 ## Supported OS
 
@@ -44,7 +43,7 @@ Any contribution helps us to improve [Yii2 System Info](https://github.com/abhi1
 Either run
 
 ```bash
-$ php composer.phar require abhi1693/yii2-system-info "@dev"
+$ php composer.phar require benz3d/yii2-system-info "@dev"
 ```
 
 Add System-Info to the require section of your **composer.json** file:
@@ -52,7 +51,7 @@ Add System-Info to the require section of your **composer.json** file:
 ```php
 {
     "require": {
-        "abhi1693/yii2-system-info": "@dev"
+        "benz3d/yii2-system-info": "@dev"
     }
 }
 ```
@@ -66,7 +65,7 @@ $ php composer.phar update
 ## Usage
 
 ```php
-use abhimanyu\systemInfo\SystemInfo;
+use benz3d\systemInfo\SystemInfo;
 
 // Get the class to work with the current operating system
 $system = SystemInfo::getInfo();
