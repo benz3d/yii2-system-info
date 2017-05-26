@@ -1,14 +1,8 @@
 <?php
-	/**
-	 * Created by PhpStorm.
-	 * User: Abhimanyu
-	 * Date: 15-02-2015
-	 * Time: 22:19
-	 */
 
-	namespace abhimanyu\systemInfo;
+	namespace benz3d\systemInfo;
 
-	use abhimanyu\systemInfo\interfaces\InfoInterface;
+	use benz3d\systemInfo\interfaces\InfoInterface;
 
 	class SystemInfo
 	{
