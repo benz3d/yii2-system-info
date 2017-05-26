@@ -1,12 +1,12 @@
 {
-  "name": "abhi1693/yii2-system-info",
+  "name": "benz3d/yii2-system-info",
   "description": "Information about the server",
   "license": "MIT",
   "authors": [
     {
-      "name": "Abhimanyu Saharan",
-      "email": "desk.abhimanyu@gmail.com",
-      "homepage": "http://abhi1693.github.io/yii2-system-info"
+      "name": "Nirapon Pothiin",
+      "email": "benzz3d@gmail.com",
+      "homepage": ""
     }
   ],
   "require": {
@@ -14,6 +14,6 @@
     "yiisoft/yii2": "*"
   },
   "autoload": {
-    "psr-4": {"abhimanyu\\systemInfo\\": ""}
+    "psr-4": {"benz3d\\systemInfo\\": ""}
   }
 }
