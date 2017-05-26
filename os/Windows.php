@@ -1,14 +1,8 @@
 <?php
-	/**
-	 * Created by PhpStorm.
-	 * User: Abhimanyu
-	 * Date: 15-02-2015
-	 * Time: 22:24
-	 */
 
-	namespace abhimanyu\systemInfo\os;
+	namespace benz3d\systemInfo\os;
 
-	use abhimanyu\systemInfo\interfaces\InfoInterface;
+	use benz3d\systemInfo\interfaces\InfoInterface;
 	use Exception;
 	use PDO;
 	use Yii;
