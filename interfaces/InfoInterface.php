@@ -1,12 +1,5 @@
 <?php
-	/**
-	 * Created by PhpStorm.
-	 * User: Abhimanyu
-	 * Date: 15-02-2015
-	 * Time: 22:17
-	 */
-
-	namespace abhimanyu\systemInfo\interfaces;
+	namespace benz3d\systemInfo\interfaces;
 
 	/**
 	 * Interface InfoInterface
